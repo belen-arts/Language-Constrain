@@ -1,0 +1,597 @@
+{
+  "total_terms": 98,
+  "terms": [
+    "tbh",
+    "ngl",
+    "fr",
+    "lowkey",
+    "highkey",
+    "deadass",
+    "no cap",
+    "periodt",
+    "slay",
+    "bestie",
+    "queen",
+    "king",
+    "iconic",
+    "legend",
+    "fire",
+    "based",
+    "cringe",
+    "mid",
+    "bussin",
+    "sheesh",
+    "fam",
+    "bet",
+    "cap",
+    "facts",
+    "snatched",
+    "tea",
+    "spill",
+    "stan",
+    "simp",
+    "flex",
+    "clout",
+    "ghost",
+    "vibe",
+    "mood",
+    "sus",
+    "say less",
+    "hits different",
+    "slaps",
+    "sending me",
+    "rent free",
+    "main character",
+    "understood the assignment",
+    "its giving",
+    "the way",
+    "not me",
+    "pov",
+    "iykyk",
+    "this aint it",
+    "chile",
+    "purr",
+    "periodt pooh",
+    "okurrr",
+    "sksksks",
+    "and i oop",
+    "no literally",
+    "bestie vibes",
+    "main character energy",
+    "that part",
+    "the tea",
+    "spill the tea",
+    "sis",
+    "bro",
+    "dude",
+    "mans",
+    "homie",
+    "squad",
+    "crew",
+    "gang",
+    "tribe",
+    "rizz",
+    "ratio",
+    "touch grass",
+    "chronically online",
+    "gaslight gatekeep girlboss",
+    "chefs kiss",
+    "ate and left no crumbs",
+    "mother",
+    "serve",
+    "soft launch",
+    "hard launch",
+    "green flag",
+    "red flag",
+    "ick",
+    "w",
+    "l",
+    "npc",
+    "pick me",
+    "im deceased",
+    "sending",
+    "no thoughts head empty",
+    "brain go brrr",
+    "himbo",
+    "girlboss",
+    "karen",
+    "ok boomer",
+    "very demure",
+    "very mindful",
+    "very cutesy"
+  ],
+  "meanings": {
+    "tbh": "to be honest",
+    "ngl": "not gonna lie",
+    "fr": "for real",
+    "lowkey": "somewhat or secretly",
+    "highkey": "obviously or very much",
+    "deadass": "seriously or honestly",
+    "no cap": "no lie, for real",
+    "periodt": "period, end of discussion",
+    "slay": "to do something really well",
+    "bestie": "best friend",
+    "queen": "someone amazing",
+    "king": "someone amazing (masculine)",
+    "iconic": "legendary or memorable",
+    "legend": "someone amazing",
+    "fire": "awesome or excellent",
+    "based": "agreeable or admirable",
+    "cringe": "embarrassing or awkward",
+    "mid": "mediocre or average",
+    "bussin": "really good",
+    "sheesh": "expression of amazement",
+    "fam": "family or close friends",
+    "bet": "agreement or confirmation",
+    "cap": "lie or false statement",
+    "facts": "truth or agreement",
+    "snatched": "looking good",
+    "tea": "gossip or truth",
+    "spill": "to tell gossip",
+    "stan": "to be a big fan of",
+    "simp": "someone who does too much for someone they like",
+    "flex": "to show off",
+    "clout": "influence or fame",
+    "ghost": "to ignore someone",
+    "vibe": "feeling or mood",
+    "mood": "relatable feeling",
+    "sus": "suspicious",
+    "say less": "understood",
+    "hits different": "is uniquely good",
+    "slaps": "is really good",
+    "sending me": "making me laugh",
+    "rent free": "constantly thinking about",
+    "main character": "protagonist energy",
+    "understood the assignment": "did exactly what was needed",
+    "its giving": "it seems like",
+    "the way": "expression of emphasis",
+    "not me": "expression of disbelief",
+    "pov": "point of view",
+    "iykyk": "if you know you know",
+    "this aint it": "this is wrong",
+    "chile": "child (expression)",
+    "purr": "expression of approval",
+    "periodt pooh": "period with emphasis",
+    "okurrr": "ok with attitude",
+    "sksksks": "expression of laughter",
+    "and i oop": "awkward moment expression",
+    "no literally": "agreement with emphasis",
+    "bestie vibes": "best friend energy",
+    "main character energy": "confident protagonist vibes",
+    "that part": "agreement with emphasis",
+    "the tea": "the truth or gossip",
+    "spill the tea": "tell the gossip",
+    "sis": "sister (term of endearment)",
+    "bro": "brother (casual)",
+    "dude": "person (casual)",
+    "mans": "person (slang)",
+    "homie": "friend",
+    "squad": "friend group",
+    "crew": "group of friends",
+    "gang": "friend group",
+    "tribe": "close group",
+    "rizz": "charisma",
+    "ratio": "when reply gets more likes",
+    "touch grass": "go outside",
+    "chronically online": "too much internet time",
+    "gaslight gatekeep girlboss": "satirical phrase",
+    "chefs kiss": "perfect",
+    "ate and left no crumbs": "did perfectly",
+    "mother": "iconic person",
+    "serve": "look good",
+    "soft launch": "subtle introduction",
+    "hard launch": "official announcement",
+    "green flag": "positive sign",
+    "red flag": "warning sign",
+    "ick": "sudden turn-off",
+    "w": "win",
+    "l": "loss",
+    "npc": "basic person",
+    "pick me": "attention seeker",
+    "im deceased": "very funny",
+    "sending": "hilarious",
+    "no thoughts head empty": "not thinking",
+    "brain go brrr": "intense thinking",
+    "himbo": "attractive but not smart guy",
+    "girlboss": "successful woman",
+    "karen": "entitled person",
+    "ok boomer": "dismissive to older person",
+    "very demure": "very modest",
+    "very mindful": "very aware",
+    "very cutesy": "very cute"
+  },
+  "full_data": [
+    {
+      "slang": "tbh",
+      "meaning": "to be honest"
+    },
+    {
+      "slang": "ngl",
+      "meaning": "not gonna lie"
+    },
+    {
+      "slang": "fr",
+      "meaning": "for real"
+    },
+    {
+      "slang": "lowkey",
+      "meaning": "somewhat or secretly"
+    },
+    {
+      "slang": "highkey",
+      "meaning": "obviously or very much"
+    },
+    {
+      "slang": "deadass",
+      "meaning": "seriously or honestly"
+    },
+    {
+      "slang": "no cap",
+      "meaning": "no lie, for real"
+    },
+    {
+      "slang": "periodt",
+      "meaning": "period, end of discussion"
+    },
+    {
+      "slang": "slay",
+      "meaning": "to do something really well"
+    },
+    {
+      "slang": "bestie",
+      "meaning": "best friend"
+    },
+    {
+      "slang": "queen",
+      "meaning": "someone amazing"
+    },
+    {
+      "slang": "king",
+      "meaning": "someone amazing (masculine)"
+    },
+    {
+      "slang": "iconic",
+      "meaning": "legendary or memorable"
+    },
+    {
+      "slang": "legend",
+      "meaning": "someone amazing"
+    },
+    {
+      "slang": "fire",
+      "meaning": "awesome or excellent"
+    },
+    {
+      "slang": "based",
+      "meaning": "agreeable or admirable"
+    },
+    {
+      "slang": "cringe",
+      "meaning": "embarrassing or awkward"
+    },
+    {
+      "slang": "mid",
+      "meaning": "mediocre or average"
+    },
+    {
+      "slang": "bussin",
+      "meaning": "really good"
+    },
+    {
+      "slang": "sheesh",
+      "meaning": "expression of amazement"
+    },
+    {
+      "slang": "fam",
+      "meaning": "family or close friends"
+    },
+    {
+      "slang": "bet",
+      "meaning": "agreement or confirmation"
+    },
+    {
+      "slang": "cap",
+      "meaning": "lie or false statement"
+    },
+    {
+      "slang": "facts",
+      "meaning": "truth or agreement"
+    },
+    {
+      "slang": "snatched",
+      "meaning": "looking good"
+    },
+    {
+      "slang": "tea",
+      "meaning": "gossip or truth"
+    },
+    {
+      "slang": "spill",
+      "meaning": "to tell gossip"
+    },
+    {
+      "slang": "stan",
+      "meaning": "to be a big fan of"
+    },
+    {
+      "slang": "simp",
+      "meaning": "someone who does too much for someone they like"
+    },
+    {
+      "slang": "flex",
+      "meaning": "to show off"
+    },
+    {
+      "slang": "clout",
+      "meaning": "influence or fame"
+    },
+    {
+      "slang": "ghost",
+      "meaning": "to ignore someone"
+    },
+    {
+      "slang": "vibe",
+      "meaning": "feeling or mood"
+    },
+    {
+      "slang": "mood",
+      "meaning": "relatable feeling"
+    },
+    {
+      "slang": "sus",
+      "meaning": "suspicious"
+    },
+    {
+      "slang": "say less",
+      "meaning": "understood"
+    },
+    {
+      "slang": "hits different",
+      "meaning": "is uniquely good"
+    },
+    {
+      "slang": "slaps",
+      "meaning": "is really good"
+    },
+    {
+      "slang": "sending me",
+      "meaning": "making me laugh"
+    },
+    {
+      "slang": "rent free",
+      "meaning": "constantly thinking about"
+    },
+    {
+      "slang": "main character",
+      "meaning": "protagonist energy"
+    },
+    {
+      "slang": "understood the assignment",
+      "meaning": "did exactly what was needed"
+    },
+    {
+      "slang": "its giving",
+      "meaning": "it seems like"
+    },
+    {
+      "slang": "the way",
+      "meaning": "expression of emphasis"
+    },
+    {
+      "slang": "not me",
+      "meaning": "expression of disbelief"
+    },
+    {
+      "slang": "pov",
+      "meaning": "point of view"
+    },
+    {
+      "slang": "iykyk",
+      "meaning": "if you know you know"
+    },
+    {
+      "slang": "this aint it",
+      "meaning": "this is wrong"
+    },
+    {
+      "slang": "chile",
+      "meaning": "child (expression)"
+    },
+    {
+      "slang": "purr",
+      "meaning": "expression of approval"
+    },
+    {
+      "slang": "periodt pooh",
+      "meaning": "period with emphasis"
+    },
+    {
+      "slang": "okurrr",
+      "meaning": "ok with attitude"
+    },
+    {
+      "slang": "sksksks",
+      "meaning": "expression of laughter"
+    },
+    {
+      "slang": "and i oop",
+      "meaning": "awkward moment expression"
+    },
+    {
+      "slang": "no literally",
+      "meaning": "agreement with emphasis"
+    },
+    {
+      "slang": "bestie vibes",
+      "meaning": "best friend energy"
+    },
+    {
+      "slang": "main character energy",
+      "meaning": "confident protagonist vibes"
+    },
+    {
+      "slang": "that part",
+      "meaning": "agreement with emphasis"
+    },
+    {
+      "slang": "the tea",
+      "meaning": "the truth or gossip"
+    },
+    {
+      "slang": "spill the tea",
+      "meaning": "tell the gossip"
+    },
+    {
+      "slang": "sis",
+      "meaning": "sister (term of endearment)"
+    },
+    {
+      "slang": "bro",
+      "meaning": "brother (casual)"
+    },
+    {
+      "slang": "dude",
+      "meaning": "person (casual)"
+    },
+    {
+      "slang": "mans",
+      "meaning": "person (slang)"
+    },
+    {
+      "slang": "homie",
+      "meaning": "friend"
+    },
+    {
+      "slang": "squad",
+      "meaning": "friend group"
+    },
+    {
+      "slang": "crew",
+      "meaning": "group of friends"
+    },
+    {
+      "slang": "gang",
+      "meaning": "friend group"
+    },
+    {
+      "slang": "tribe",
+      "meaning": "close group"
+    },
+    {
+      "slang": "rizz",
+      "meaning": "charisma"
+    },
+    {
+      "slang": "ratio",
+      "meaning": "when reply gets more likes"
+    },
+    {
+      "slang": "touch grass",
+      "meaning": "go outside"
+    },
+    {
+      "slang": "chronically online",
+      "meaning": "too much internet time"
+    },
+    {
+      "slang": "gaslight gatekeep girlboss",
+      "meaning": "satirical phrase"
+    },
+    {
+      "slang": "chefs kiss",
+      "meaning": "perfect"
+    },
+    {
+      "slang": "ate and left no crumbs",
+      "meaning": "did perfectly"
+    },
+    {
+      "slang": "mother",
+      "meaning": "iconic person"
+    },
+    {
+      "slang": "serve",
+      "meaning": "look good"
+    },
+    {
+      "slang": "soft launch",
+      "meaning": "subtle introduction"
+    },
+    {
+      "slang": "hard launch",
+      "meaning": "official announcement"
+    },
+    {
+      "slang": "green flag",
+      "meaning": "positive sign"
+    },
+    {
+      "slang": "red flag",
+      "meaning": "warning sign"
+    },
+    {
+      "slang": "ick",
+      "meaning": "sudden turn-off"
+    },
+    {
+      "slang": "w",
+      "meaning": "win"
+    },
+    {
+      "slang": "l",
+      "meaning": "loss"
+    },
+    {
+      "slang": "npc",
+      "meaning": "basic person"
+    },
+    {
+      "slang": "pick me",
+      "meaning": "attention seeker"
+    },
+    {
+      "slang": "im deceased",
+      "meaning": "very funny"
+    },
+    {
+      "slang": "sending",
+      "meaning": "hilarious"
+    },
+    {
+      "slang": "no thoughts head empty",
+      "meaning": "not thinking"
+    },
+    {
+      "slang": "brain go brrr",
+      "meaning": "intense thinking"
+    },
+    {
+      "slang": "himbo",
+      "meaning": "attractive but not smart guy"
+    },
+    {
+      "slang": "girlboss",
+      "meaning": "successful woman"
+    },
+    {
+      "slang": "karen",
+      "meaning": "entitled person"
+    },
+    {
+      "slang": "ok boomer",
+      "meaning": "dismissive to older person"
+    },
+    {
+      "slang": "very demure",
+      "meaning": "very modest"
+    },
+    {
+      "slang": "very mindful",
+      "meaning": "very aware"
+    },
+    {
+      "slang": "very cutesy",
+      "meaning": "very cute"
+    }
+  ]
+}
