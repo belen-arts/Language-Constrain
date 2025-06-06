@@ -1,8 +1,8 @@
-What This Project Does
-This simulation demonstrates how platform constraints (like character limits, simplified interfaces, and algorithmic content prioritization) affect human communication patterns and linguistic complexity in real-time.
+What This Project Does ->
+ This simulation demonstrates how platform constraints (like character limits, simplified interfaces, and algorithmic content prioritization) affect human communication patterns and linguistic complexity in real-time.
 Key Research Question: Do digital platform constraints reduce the complexity of human thought and expression?
 
-Features
+Features ->
 Live Reddit Interface: Full Reddit-style interface with posts, comments, and voting
 AI Comment Generation: Generate comments in 3 different constraint modes:
 
@@ -14,7 +14,7 @@ Academic: Sophisticated vocabulary and complex sentences
 Real-Time Analytics: Floating panel shows linguistic impact metrics
 Human Response Simulation: AI generates realistic human responses to constrained language
 
-What You'll See
+What You'll See ->
 Vocabulary Diversity: How constraints reduce language complexity
 Communication Breakdown: When constrained comments become incomprehensible
 Platform Impact: Real-time evidence of how interface design affects cognition
